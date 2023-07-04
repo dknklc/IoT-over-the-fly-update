@@ -1,7 +1,7 @@
 
 # OVER-THE-AIR(OTA) Software Updates for IoT Devices
 
-### 1. Mender
+## 1. Mender
 Mender is a free open source end-to-end over-the-air software update manager with a client-server architecture. Whether the need is to install the latest security patch, delight customers with new features, or fix bugs - every company must be able to deploy overthe-air (OTA) software updates to their fleet of devices.
 
 Mender provides a complete over-the-air update infrastructure for developers and support teams. Whether in the field or the factory, remotely and easily manage device software without the need for manual labor.It also provides:
@@ -42,7 +42,7 @@ Mender currently supports Linux-based embedded devices with a fast-growing numbe
 - [@docs](https://docs.mender.io/) its documentation
   
   
-### 2. RAUC
+## 2. RAUC
 RAUC is a lightweight update client that runs on your Embedded Linux device and reliably controls the procedure of updating your device with a new firmware revision. RAUC is also the tool on your host system that lets you create, inspect and modify update artifacts for your device.
 
 RAUC is free and open-source software. It is released under the GNU General Public License (GPL) version 2. This means that you have the freedom to use, modify, and distribute RAUC according to the terms of the license.
@@ -69,7 +69,7 @@ RAUC (Robust Auto Update Controller) is compatible with Raspberry Pi and Debian-
 
 - [@docs](https://rauc.readthedocs.io/en/latest/index.html)  its documentation
 
-### 3. SWUpdate
+## 3. SWUpdate
 
 SWUpdate is the the framework for you to update your device locally or remotely. Thanks to its high flexibility, you can tune any aspect of the update and integrate it into your project. SWUpdate does not set any special requirement and it can be integrated in any embedded Linux project. It does not matter if you want to update from a local USB stick, or via a Webserver, or via a fleet management – SWUpdate will fit your needs.
 
@@ -92,7 +92,7 @@ SWUpdate is a framework and this guarantees the highest flexibility, but it requ
  
 
 
-### 4. SWUPD
+## 4. SWUPD
 Swupd is an OS-level software update program that applies updates 
 to a __Clear Linux OS__ which is a Linux distribution developed by Intel.
 
@@ -119,7 +119,7 @@ Software updates with Clear Linux OS are also efficient. Unlike package-based di
 
 Clear Linux OS updates are automatic by default, but can be set to occur only on demand. swupd makes sure that regular updates are simple and secure. It can also check the validity of currently installed files and software, and can correct any problems.
 
-### 5. UpdateHub
+## 5. UpdateHub
 
 UpdateHub is an enterprise-grade solution which makes simple to remotely update all your Linux-based devices in the field, with maximum security and efficiency, while you focus in adding value to your product.
 
@@ -165,7 +165,7 @@ The support provided by the UpdateHub for the device includes:
 
 
 
-### 6. Balena
+## 6. Balena
 
 The secure container-based technology stack that enables you to develop, deploy, manage, and scale fleets of IoT Linux devices.
 
@@ -184,7 +184,7 @@ The secure container-based technology stack that enables you to develop, deploy,
 ### Links
 
 - [@docs](https://docs.balena.io/learn/welcome/introduction/) its documentation
-### 7. Snap
+## 7. Snap
 
 Snap IoT OTA is a way to deliver **secure and reliable** software updates to Linux devices using **snaps**, which are **application containers** with all their dependencies. Snaps can be installed using a single command on any device running Linux, and they run fully isolated in their own sandbox. Snaps are hosted in the global **Snap Store**, an application repository hosted and managed by Canonical, and are free for anyone to download. Snap IoT OTA is in use right now by many companies and developers who want to create, publish and distribute software on one platform, with **automatic and resilient** over-the-air updates to only their devices in a **secure and validated** way. You can find out more about Snap IoT OTA and how to get your own IoT app store here.
 
@@ -218,7 +218,7 @@ Her yuva, kullanıcı alanı tarafından ayarlanan başarılı bir özniteliğe 
 
 - [@android](https://source.android.com/docs/core/ota/ab?hl=tr#slotss) A/B sistem güncellemeleri hakkında
 
-### 8.JFrog Connect
+## 8.JFrog Connect
 JFrog Connect enables us to update, control and monitor remote Linux & IoT devices, at scale, with the click of a button.
 JFrog Connect solves the major challenges of maintaining software in Linux-based IoT and edge devices, including fleet visibility, deploying software updates at scale, monitoring, and troubleshooting.
 ### Features
