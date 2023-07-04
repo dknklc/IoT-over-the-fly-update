@@ -218,3 +218,5 @@ Her yuva, kullanıcı alanı tarafından ayarlanan başarılı bir özniteliğe 
 
 - [@android](https://source.android.com/docs/core/ota/ab?hl=tr#slotss) A/B sistem güncellemeleri hakkında
 
+### 8.JFrog Connect
+JFrog Connect enables us to update, control and monitor remote Linux & IoT devices, at scale, with the click of a button.
