@@ -220,7 +220,19 @@ Her yuva, kullanıcı alanı tarafından ayarlanan başarılı bir özniteliğe 
 
 ### 8.JFrog Connect
 JFrog Connect enables us to update, control and monitor remote Linux & IoT devices, at scale, with the click of a button.
+JFrog Connect solves the major challenges of maintaining software in Linux-based IoT and edge devices, including fleet visibility, deploying software updates at scale, monitoring, and troubleshooting.
+### Features
+- Register a new device in seconds
+- Fleet-scale device management
+- Automate device updates
+- Continuous Monitoring
+- Remote access & control
 
 ### Compatability
 Choose from common Linux distributions including like Yocto, Debian, Ubuntu, Raspberry Pi OS, and popular hardware platforms like NVIDIA Jetson, BeagleBone and Raspberry Pi.
 
+![Screenshot](frogconnect.png)
+
+### Links
+- [@android](https://source.android.com/docs/core/ota/ab?hl=tr#slotss](https://jfrog.com/connect/) official website
+- [@docs](https://docs.connect.jfrog.io/overview/connect-documentation) official website
