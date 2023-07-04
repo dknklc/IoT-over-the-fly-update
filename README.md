@@ -234,5 +234,5 @@ Choose from common Linux distributions including like Yocto, Debian, Ubuntu, Ras
 ![Screenshot](frogconnect.png)
 
 ### Links
-- [@android](https://source.android.com/docs/core/ota/ab?hl=tr#slotss](https://jfrog.com/connect/) official website
-- [@docs](https://docs.connect.jfrog.io/overview/connect-documentation) official website
+- [@JFrog](https://docs.connect.jfrog.io/overview/connect-documentation) official website
+- [@docs](https://docs.connect.jfrog.io/overview/connect-documentation) about documentation
