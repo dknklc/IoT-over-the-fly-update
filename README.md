@@ -188,7 +188,7 @@ The secure container-based technology stack that enables you to develop, deploy,
 
 Snap IoT OTA is a way to deliver **secure and reliable** software updates to Linux devices using **snaps**, which are **application containers** with all their dependencies. Snaps can be installed using a single command on any device running Linux, and they run fully isolated in their own sandbox. Snaps are hosted in the global **Snap Store**, an application repository hosted and managed by Canonical, and are free for anyone to download. Snap IoT OTA is in use right now by many companies and developers who want to create, publish and distribute software on one platform, with **automatic and resilient** over-the-air updates to only their devices in a **secure and validated** way. You can find out more about Snap IoT OTA and how to get your own IoT app store here.
 
-#### Compatibility
+#### Compatability
 
 - Is snap store compatible with arm based controller beaglebone?
 
@@ -220,3 +220,7 @@ Her yuva, kullanıcı alanı tarafından ayarlanan başarılı bir özniteliğe 
 
 ### 8.JFrog Connect
 JFrog Connect enables us to update, control and monitor remote Linux & IoT devices, at scale, with the click of a button.
+
+### Compatability
+Choose from common Linux distributions including like Yocto, Debian, Ubuntu, Raspberry Pi OS, and popular hardware platforms like NVIDIA Jetson, BeagleBone and Raspberry Pi.
+
