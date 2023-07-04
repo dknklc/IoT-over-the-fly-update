@@ -1,5 +1,5 @@
 
-# Over-The-Air Software Updates for IoT Devices
+# OVER-THE-AIR(OTA) Software Updates for IoT Devices
 
 ### 1. Mender
 Mender is a free open source end-to-end over-the-air software update manager with a client-server architecture. Whether the need is to install the latest security patch, delight customers with new features, or fix bugs - every company must be able to deploy overthe-air (OTA) software updates to their fleet of devices.
